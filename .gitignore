@@ -9,3 +9,5 @@ config/__pycache__/
 user/__pycache__/
 
 blog/__pycache__/
+
+secrets.json
